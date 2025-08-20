@@ -16,7 +16,6 @@
             Float1();
             Char1();
             Decimal1();
-            //я говноед
         }
 
         public static void Int1()
